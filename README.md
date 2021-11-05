@@ -5,7 +5,7 @@
 
 此外，由于前后端开发知识的匮乏，我未能够完成其余部分以将其串联成整体。此段代码是我尽力所为，非常感谢您的理解。
 
---------------------------------------------
+---
 
 I'm very sorry that due to my limited level, I failed to complete all parts of the big assignment of this blockchain course.
 
